@@ -1,0 +1,2 @@
+# picturesStorage
+储存需要引用的图片，用于latex或者markdown文档的图片引用
